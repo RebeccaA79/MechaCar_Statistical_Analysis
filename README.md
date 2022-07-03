@@ -46,7 +46,9 @@ The T-test on each individual lot shows p-values of:
 
 
 Lot 1: 1
+
 Lot 2: 0.6072
+
 Lot 3: 0.04168
 
 These results show Lot 1 and Lot 2 are not statistically different from the population mean. However, Lot 3 is slightly statistically different from the population mean. Lot 3 appears to be under-performing and should be further analyzed to determine if it should be dropped.
